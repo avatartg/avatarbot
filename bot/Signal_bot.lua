@@ -281,7 +281,8 @@ Admins:
 🔥 @Ali_dev_avatar_TG [Founder & Developer] 🔥
 🔥 @Hosein_MSUDO [Sudo & Developer] 🔥
 🔥 @mehdiiisudo [Sudo & Developer] 🔥
-🔥 @pokern [Sudo]
+🔥 @pokern [Sudo] 🔥
+🔥 @mahdi_dev_avatar_TG [Admin] 🔥
 🔥 @zahraa_sadat [Admin] 🔥
 —---------------------------—
 Our channels
