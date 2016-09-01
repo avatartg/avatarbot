@@ -7,7 +7,7 @@ end
 
 local function run(msg, matches)
   local text
-  if matches[1] == 'arz' then
+  if matches[1] == 'ارز' then
   text = get_arz() 
 elseif matches[1] == 'gold' then
   text = get_gold() 
@@ -20,7 +20,7 @@ return {
   description = "arz in now", 
   usage = "/arz",
   patterns = {
-    "^[!/#](arz)$"
+    "^(ارز)$"
   }, 
   run = run 
 }
